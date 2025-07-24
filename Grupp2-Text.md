@@ -2,7 +2,7 @@
 
 I den moderna utvecklingsvärlden är versionshantering en grundläggande färdighet för alla som arbetar med kod, oavsett om det handlar om enskilda programmerare, team av utvecklare eller stora företag. Git och GitHub är två av de mest använda verktygen inom detta område. I denna text går vi igenom vad Git är, hur det fungerar, vad GitHub tillför och varför dessa verktyg är så viktiga i dagens utvecklingsmiljöer.
 
-
+Magnus tillägg
 
 Vad är Git?
 
