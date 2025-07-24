@@ -138,19 +138,10 @@ Samarbete: Flera utvecklare kan bidra till samma projekt på ett organiserat sä
 
 
 
-Open source: Tusentals fria projekt är tillgängliga att studera, använda eller förbättra.
-
-
-
-Pull requests: En strukturerad process för att föreslå ändringar och få dem granskade.
-
-
-
-Issue tracking: Hantera buggar och förbättringar på ett tydligt sätt.
-
-
-
-CI/CD-integration: GitHub kan kopplas till verktyg för att automatiskt testa och bygga kod.
+* Open source: Tusentals fria projekt är tillgängliga att studera, använda eller förbättra.
+* Pull requests: En strukturerad process för att föreslå ändringar och få dem granskade.
+* Issue tracking: Hantera buggar och förbättringar på ett tydligt sätt.
+* CI/CD-integration: GitHub kan kopplas till verktyg för att automatiskt testa och bygga kod.
 
 
 
@@ -175,4 +166,12 @@ Azure DevOps: Microsofts plattform för kodhantering och CI/CD.
 Sammanfattning
 
 Git och GitHub är idag standardverktyg inom mjukvaruutveckling. Git ger ett stabilt och kraftfullt sätt att hantera versionshistorik och kodförändringar, medan GitHub möjliggör effektivt samarbete, kodgranskning och projekthantering. Tillsammans ger de utvecklare möjlighet att arbeta strukturerat, spåra förändringar och samarbeta oavsett var i världen man befinner sig. För den som vill lära sig programmera är det därför viktigt att snabbt bli bekant med dessa verktyg och deras arbetsflöden.
+
+
+
+### Tack från oss i Grupp2!
+
+
+
+Mattias, Max, Magnus, Emmy
 
