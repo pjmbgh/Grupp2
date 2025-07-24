@@ -134,23 +134,23 @@ På GitHub kan du skapa en ny branch för att arbeta på en funktion, och sedan 
 
 Fördelar med GitHub
 
-Samarbete: Flera utvecklare kan bidra till samma projekt på ett organiserat sätt.
+* Samarbete: Flera utvecklare kan bidra till samma projekt på ett organiserat sätt.
 
 
 
-Open source: Tusentals fria projekt är tillgängliga att studera, använda eller förbättra.
+* Open source: Tusentals fria projekt är tillgängliga att studera, använda eller förbättra.
 
 
 
-Pull requests: En strukturerad process för att föreslå ändringar och få dem granskade.
+* Pull requests: En strukturerad process för att föreslå ändringar och få dem granskade.
 
 
 
-Issue tracking: Hantera buggar och förbättringar på ett tydligt sätt.
+* Issue tracking: Hantera buggar och förbättringar på ett tydligt sätt.
 
 
 
-CI/CD-integration: GitHub kan kopplas till verktyg för att automatiskt testa och bygga kod.
+* CI/CD-integration: GitHub kan kopplas till verktyg för att automatiskt testa och bygga kod.
 
 
 
