@@ -1,8 +1,8 @@
-**Introduktion till Git och GitHub**
+### **Introduktion till Git och GitHub**
 
 I den moderna utvecklingsvärlden är versionshantering en grundläggande färdighet för alla som arbetar med kod, oavsett om det handlar om enskilda programmerare, team av utvecklare eller stora företag. Git och GitHub är två av de mest använda verktygen inom detta område. I denna text går vi igenom vad Git är, hur det fungerar, vad GitHub tillför och varför dessa verktyg är så viktiga i dagens utvecklingsmiljöer.
 
-
+Magnus tillägg
 
 Vad är Git?
 
@@ -134,23 +134,25 @@ På GitHub kan du skapa en ny branch för att arbeta på en funktion, och sedan 
 
 Fördelar med GitHub
 
-Samarbete: Flera utvecklare kan bidra till samma projekt på ett organiserat sätt.
+* Samarbete: Flera utvecklare kan bidra till samma projekt på ett organiserat sätt.
 
 
 
-Open source: Tusentals fria projekt är tillgängliga att studera, använda eller förbättra.
+* Open source: Tusentals fria projekt är tillgängliga att studera, använda eller förbättra.
 
 
 
-Pull requests: En strukturerad process för att föreslå ändringar och få dem granskade.
+
+* Pull requests: En strukturerad process för att föreslå ändringar och få dem granskade.
 
 
 
-Issue tracking: Hantera buggar och förbättringar på ett tydligt sätt.
+* Issue tracking: Hantera buggar och förbättringar på ett tydligt sätt.
 
 
 
-CI/CD-integration: GitHub kan kopplas till verktyg för att automatiskt testa och bygga kod.
+
+* CI/CD-integration: GitHub kan kopplas till verktyg för att automatiskt testa och bygga kod.
 
 
 
@@ -175,4 +177,12 @@ Azure DevOps: Microsofts plattform för kodhantering och CI/CD.
 Sammanfattning
 
 Git och GitHub är idag standardverktyg inom mjukvaruutveckling. Git ger ett stabilt och kraftfullt sätt att hantera versionshistorik och kodförändringar, medan GitHub möjliggör effektivt samarbete, kodgranskning och projekthantering. Tillsammans ger de utvecklare möjlighet att arbeta strukturerat, spåra förändringar och samarbeta oavsett var i världen man befinner sig. För den som vill lära sig programmera är det därför viktigt att snabbt bli bekant med dessa verktyg och deras arbetsflöden.
+
+
+
+### Tack från oss i Grupp2!
+
+
+
+Mattias, Max, Magnus
 
